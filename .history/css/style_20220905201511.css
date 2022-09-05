@@ -1,0 +1,26 @@
+*{margin: 0;
+    padding: 0;
+}
+
+
+html, body{
+
+height: 100%;
+display: block;
+}
+body{
+    display: block;
+    margin: o;
+    font-family: 'Montserrat', sans-serif;
+    max-width: 1366 px;
+    min-height: 100%;
+}
+.coi{
+    margin: 0 auto;
+    padding-left: 50px;
+    height: 800px;
+    background-image:url(../img/slider-img.png);
+background-size: contain;
+background-repeat: no-repeat;
+    
+}

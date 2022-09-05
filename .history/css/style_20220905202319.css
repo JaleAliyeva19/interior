@@ -9,20 +9,18 @@ height: 100%;
 display: block;
 font-family: 'Montserrat', sans-serif;
 }
-.container{
+.cointainer{
     display: block;
-    
     margin: o auto;    
     width: 1366 px;
     min-height: 100%;
 }
-.header{
-    display: block;
+header{
+    
     padding-left: 98px;
     height: 800px;
-    background-image:url(../img/slider-img.jpg);
-    background-repeat:no-repeat ;
-    background-size: auto;
+    background-image:url(../img/slider-img.png);
+    b
 
     
 }

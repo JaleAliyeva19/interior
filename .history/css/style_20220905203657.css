@@ -11,18 +11,16 @@ font-family: 'Montserrat', sans-serif;
 }
 .container{
     display: block;
-    
     margin: o auto;    
     width: 1366 px;
     min-height: 100%;
 }
-.header{
-    display: block;
+header{
+    
     padding-left: 98px;
     height: 800px;
-    background-image:url(../img/slider-img.jpg);
+    background-image:url(../);
     background-repeat:no-repeat ;
-    background-size: auto;
 
     
 }
