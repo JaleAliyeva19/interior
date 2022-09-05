@@ -1,0 +1,22 @@
+html{
+    margin: 0; 
+    width: 100%;   
+}
+html, body{
+padding: 0;
+height: 100%;
+display: block;
+}
+body{
+    display: block;
+    margin: o;
+    font-family: 'Montserrat', sans-serif;
+    width: 1366 px;
+    min-height: 100%;
+}
+header{
+        lo
+    height: 800px;
+    background-image:url(../img/slider-img.png);
+    
+}

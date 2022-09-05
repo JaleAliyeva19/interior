@@ -1,0 +1,10 @@
+html{
+    
+}
+html, body{
+margin: 0 auto;
+padding: 0;
+height: 100%;
+display: block;
+font-family: 'Montserrat', sans-serif;
+}
